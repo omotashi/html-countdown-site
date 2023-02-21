@@ -1,0 +1,32 @@
+#countdown {
+  font-size: 80px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+#date {
+  font-size: 30px;
+  text-align: center;
+  color: gray;
+  opacity: 50;
+}
+
+.header {
+  font-size: 50px;
+  text-align: center;
+    color: white;
+}
+
+body {
+ font-family: sans-serif;
+  background-color: black;
+}
+
+footer {
+  color: white;
+  font-weight: bolder;
+  padding: 5px;
+  font-size: 16px;
+  text-align: center;
+}
